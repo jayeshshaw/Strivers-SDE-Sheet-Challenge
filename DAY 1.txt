@@ -1,0 +1,5 @@
+4. Maximum Subarray Sum
+25. Reverse a Linked List
+32. Cycle Detection in a Linked List
+75. Implement Trie
+163. Find number of islands
