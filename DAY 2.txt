@@ -1,0 +1,5 @@
+6. Best Time to Buy and Sell Stocks
+179. Ways To Make Coin Change
+95. Rotting Oranges
+24. Longest Substring without repeating characters
+172. Longest Increasing Subsequence
