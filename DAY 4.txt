@@ -1,0 +1,5 @@
+3. Next Permutation
+12. Count Inversions
+9. Merge Two Sorted Array
+93. Maximum In Sliding Window of Size K
+103. Longest Common Prefix
