@@ -1,0 +1,4 @@
+89. Next Smaller Element
+51. Return Subset sum to K
+161. Detect Cycle in A directed graph
+153. Kth Largest Element In A Stream
